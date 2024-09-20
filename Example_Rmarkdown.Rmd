@@ -1,6 +1,6 @@
 ---
 title: "My First Rmarkdown Document"
-author: "Mx Data"
+author: "Joel Barron"
 date: "2024-09-18"
 output: html_document
 ---
